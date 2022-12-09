@@ -13,7 +13,7 @@ spring:
   application:
     name: rental-service
   datasource:
-    password: 1375
+    password: 12345
     url: jdbc:postgresql://localhost:5432/rentacarrental
     username: postgres
   jpa:
